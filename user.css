@@ -289,20 +289,20 @@ button::-moz-focus-inner {
 
 
 table {
-   padding: 1px;border-collapse: collapse;font-size: 12px;color: #4f6b72}
+   padding: 1px;border-collapse: collapse;font-size: 12px;color: #333333}
 table tr {
-   border-top: 1px solid #c1dad7;
-   background-color: #f5fafa;
+   border-top: 1px solid #666666;
+   background-color: #fff;
    margin: 0;
    padding: 1px; }
 table tr th {
    font-weight: bold;
-   background-color: #cae8ea;
-   border: 1px solid #c1dad7;
+   background-color: #dedede;
+   border: 1px solid #666666;
    margin: 0;
    padding: 6px 13px; }
 table tr td {
-   border: 1px solid #c1dad7;
+   border: 1px solid #666666;
    margin: 0;
    padding: 6px 13px; }
 table tr th :first-child, table tr td :first-child {
